@@ -1,5 +1,7 @@
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQGGW1IX6pQQKQ/profile-displaybackgroundimage-shrink_350_1400/0/1715319914001?e=1727913600&v=beta&t=u15DwlfqNr07NPxSuRjcemtO67_uzJOzx5O_97isifE)](https://vighneshms.netlify.app/)
 <h1 align="center">Hi 👋, I'm Vighnesh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-m-s" /> </p>
 
