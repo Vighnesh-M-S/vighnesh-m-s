@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-m-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vighnesh-m-s" alt="vighnesh-m-s" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vighneshms.netlify.app/](https://vighneshms.netlify.app/)
+- 👨‍💻 All of my projects are available at [vighneshms.netlify.app](https://vighneshms.netlify.app/)
 
 - 📫 How to reach me **vighnesh21ms@gmail.com**
 
@@ -26,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh-m-s&show_icons=true&locale=en" alt="vighnesh-m-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-m-s&" alt="vighnesh-m-s" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vighnesh-m-s" alt="vighnesh-m-s" /></a> </p>
+
+
