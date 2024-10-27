@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGGW1IX6pQQKQ/profile-displaybackgroundimage-shrink_350_1400/0/1715319914001?e=1727913600&v=beta&t=u15DwlfqNr07NPxSuRjcemtO67_uzJOzx5O_97isifE)](https://vighneshms.netlify.app/)
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1v1M3Sjc8_R4qFfEA1i-Oe2caecOD4hN2/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Vighnesh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
